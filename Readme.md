@@ -1,4 +1,4 @@
-![GitHub Banner Image](https://raw.githubusercontent.com/Dev-Aare/Dev-Aare/refs/heads/main/Black%20and%20Red%20Gradient%20Professional%20LinkedIn%20Banner.jpg)
+![GitHub Banner Image](https://raw.githubusercontent.com/Dev-Aare/Dev-Aare/refs/heads/main/Black%20and%20Red%20Gradient%20Professional%20LinkedIn%20Banner%20(2).png)
 
 # 💫 About Me:
 👨‍🎓 I'm a Full Stack | MERN Stack | Web | React JS Developer.<br>🔭 I’m currently working on Full Stack Web Application using Next.JS.<br>👨‍🏫 I'm the Full Stack Trainer in I Tech.<br>💬 Ask me about anything, I am happy to help : https://aakash-thenoobdev.web.app/#contact<br>🌱 I'm currently learning DSA & Java.<br>👯 Join my community if you're a tech enthusiast<br>📬 How to reach me: https://aakash-thenoobdev.web.app/ <br>💪 This is where I write, code and solve problems:
